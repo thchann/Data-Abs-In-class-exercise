@@ -5,7 +5,7 @@ import java.util.HashMap;
 
 public class exercise_2 {
     public static boolean doubles(int[] x){
-        // Hashset is the best for storing key-value pairs.
+        // Hashmap is the best? for storing key-value pairs (Hashset might be slightly better?).
         // This makes this function:
         // O(n) time complexity.
         // O(n) space complexity, as it only runs the length of the array.
